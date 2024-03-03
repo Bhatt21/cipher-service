@@ -12,7 +12,7 @@ class CiphersTest(TestCase):
     def test_caesar_encoding_2(self):
         plain_text = 'winter'
         shift = 4
-        expected = 'zlqwhu'
+        expected = 'amrxiv'
         output = caesar_encode(plain_text, shift)
         self.assertEqual(expected, output)
 
