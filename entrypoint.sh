@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 echo "Apply migration"
 cd ./ciphers_project
